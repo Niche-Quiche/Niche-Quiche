@@ -1,9 +1,15 @@
-
-![buscemi](https://user-images.githubusercontent.com/78816489/183308058-97c529b2-7265-4634-ac3c-7a9542110b66.gif)
-
-
-
+<p align="center">
+<img src='https://user-images.githubusercontent.com/78816489/183308083-a039e9ed-e824-4fc0-94bd-d3d4b78e23af.gif' />
+</p>
 
 
 
 
+
+
+
+
+
+
+
+### Hi there 👋
